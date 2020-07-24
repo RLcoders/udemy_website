@@ -1,0 +1,29 @@
+body {
+  background-color: #127681;
+}
+
+h1 {
+  color: #10375c;
+}
+
+h3 {
+  color: #f3c623;
+}
+hr {
+  border-style: dotted none none;
+  border-color: #10375c;
+  border-width: 5px;
+
+  color: aliceblue;
+
+  height: 0px;
+  width: 17%;
+}
+img {
+  height: 250px;
+}
+
+p{
+  color: #10375c ;
+}
+
